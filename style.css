@@ -384,7 +384,7 @@ img.card_hover {
 
 /* card ends */
 
-.about-us {
+.about-us{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -392,10 +392,14 @@ img.card_hover {
     height: 32vh;
     margin-left: 15%;
     margin-top: 70px;
-}
-.about-use{
     font-family: 'Noto Sans KR', sans-serif;
+
 }
+.aboutus-font{
+    width: 65%;
+    display: inline-block;
+}
+
 .position-right {
     position: relative;
     bottom: 40px;
@@ -415,14 +419,15 @@ img.card_hover {
 
 .left-side img {
     width: 30%;
+    display: inline-block;
 }
 
 .left-side small {
-    display: flex;
-    flex-direction: row;
-    justify-content: end;
+    /* display: flex; */
+    /* flex-direction: row;
+    justify-content: end; */
     font-size: 30px;
-    position: relative;
+    /* position: relative; */
     right: 25%;
     bottom: 170px;
 }
@@ -431,14 +436,14 @@ img.card_hover {
     margin-top: 4px;
     font-size: large;
     font-weight: 300;
-    padding-right: 13.7%;
+    /* padding-right: 13.7%; */
     color: rgb(0, 207, 207);
 }
 
 #align_p {
-    position: relative;
+    /* position: relative;
     bottom: 150px;
-    width: 90%;
+    width: 90%; */
 
 }
 
