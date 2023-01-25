@@ -216,9 +216,6 @@ h1 {
 
 .side-nav a img {
     height: 30px;
-    /* position: relative;
-    right: 45px;
-    top: 5px; */
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -450,12 +447,7 @@ img.card_hover {
     color: rgb(0, 207, 207);
 }
 
-#align_p {
-    /* position: relative;
-    bottom: 150px;
-    width: 90%; */
 
-}
 
 .right-side {
     width: 30%;
