@@ -318,7 +318,7 @@ h1 {
 
 .card {
     width: 22%;
-    height: 440px;
+    height: 422px;
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: -48px;
@@ -326,7 +326,7 @@ h1 {
 }
 
 img.card_hover {
-    height: 100%;
+    height: auto;
     width: 100%;
     opacity: .8;
     display: none;
